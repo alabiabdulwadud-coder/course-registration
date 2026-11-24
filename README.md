@@ -1,1 +1,1 @@
-Course registration project
+python class of 2026 are doing just fine
